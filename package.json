@@ -1,0 +1,20 @@
+{
+  "name": "vite-apollo-3.4.10",
+  "dependencies": {
+    "@apollo/client": "3.4.10",
+    "graphql": "15.5.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.19",
+    "@types/react-dom": "17.0.9",
+    "typescript": "4.4.2",
+    "vite": "2.5.3"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  }
+}
